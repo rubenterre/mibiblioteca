@@ -100,5 +100,44 @@
       "saga": "Gears of War",
       "genero":"Acción",
       "description":"¡Más salvaje que nunca! Se aproxima el invierno, y la guerra se encrudece. Se hunden ciudades enteras a causa de una amenaza desconocida. Dentro de poco a la humanidad no le quedara nada que defender. Solo una opción: Un último ataque a la Horda Locust.   Nuevo referente en juegos HD Los controles innovadores, y la intensidad de sus combates, hicieron de Gears of Wars uno de los juegos de Xbox mas vendidos de la historia. Los nuevos avances del Unreal 3 marcan de nuevo un antes y un después.   Una experiencia entrañable Utiliza a los enemigos como escudos, enfréntate a duelos con motosierras y descubre nuevos monstruos, armas y vehículos en una campaña de victorias y derrotas."
+    },
+    {
+      "id": 14,
+      "name": "Battlefront",
+      "saga": "Battlefront",
+      "genero":"Acción",
+      "ruta": "Battlefront",
+      "description":"La serie de Star Wars: Battlefront abarca a varios videojuegos de disparos en primera y tercera persona basados en la saga de once películas de ciencia ficción Star Wars, inventada por George Lucas."
+    },
+    {
+      "id": 15,
+      "name": "Battlefront II",
+      "saga": "Battlefront II",
+      "genero":"Acción",
+      "description":"Lucha junto a amigos y héroes en diversos planetas de las tres épocas cinematográficas de Star Wars. Pelea en las plataformas empapadas de lluvia de Kamino, enfréntate a la Primera Orden en la tundra de la base Starkiller y expulsa a los invasores separatistas del palacio de Theed, en Naboo."
+    },
+    {
+      "id": 16,
+      "name": "GTA 5",
+      "saga": "GTA",
+      "genero":"Acción",
+      "ruta": "GTA5",
+      "description":"Grand Theft Auto V es un videojuego de acción-aventura de mundo abierto desarrollado por el estudio Rockstar North y distribuido por Rockstar Games. Fue lanzado el 17 de septiembre de 2013 para las consolas PlayStation 3 y Xbox 360."
+    },
+    {
+      "id": 17,
+      "name": "ARK Suvirval",
+      "saga": "ARK",
+      "genero":"Acción",
+      "ruta": "ARK",
+      "description":"Ark: Survival Evolved es un videojuego de acción-aventura y supervivencia desarrollado por Studio Wildcard, Instinct Games, Efecto Studio y Virtual Basement. Lanzado oficialmente el 29 de agosto de 2017 para Windows, Xbox One, Nintendo Switch, PlayStation 4, IOS y Android."
+    },
+    {
+      "id": 18,
+      "name": "Rainbow Six Siege",
+      "saga": "Tom Clancy Rainbow Six",
+      "genero":"Acción",
+      "ruta": "RAINBOWSIX",
+      "description":"Tom Clancy's Rainbow Six: Siege es un videojuego de disparos táctico en línea desarrollado por Ubisoft Montreal y distribuidor por Ubisoft. Salió a la venta en todo el mundo para Microsoft Windows, PlayStation 4 y Xbox One el 1 de diciembre de 2015 y para PlayStation 5 y Xbox Series X|S el 1 de diciembre de 2020."
     }
   ]
