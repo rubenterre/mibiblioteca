@@ -12,7 +12,6 @@
       "name": "Assassin's Creed II",
       "saga": "Assassin's Creed",
       "genero": "Acción",
-      "ruta":"AssassinsCreed",
       "description": "Assassin's Creed II es la secuela del juego que se convirtió en la nueva IP con las ventas más rápidas de la historia de los videojuegos. El esperado título presenta a un nuevo héroe, Ezio Auditore, un joven noble italiano, y una nueva era, el Renacimiento."
     },
     {
@@ -20,7 +19,6 @@
       "name": "Assassin's Creed La Hermandad",
       "saga": "Assassin's Creed",
       "genero": "Acción",
-      "ruta":"AssassinsCreed",
       "description":"En Assassin's Creed La Hermandad, ponte en la piel de Ezio, un legendario maestro Assassin, en su lucha contra la Orden de los templarios. Para atacar al corazón del enemigo, deberá aventurarse en Roma, centro de poder, avaricia y corrupción."
     },
     {
@@ -28,7 +26,6 @@
       "name": "Assassin's Creed Revelations",
       "saga": "Assassin's Creed",
       "genero": "Acción",
-      "ruta":"AssassinsCreed",
       "description":"En Assassin's Creed Revelations, el maestro Assassin Ezio Auditore sigue los pasos del legendario mentor Altaïr. Es un peligroso viaje que llevará a Ezio hasta Constantinopla, donde un ejército de templarios amenaza con desestabilizar la región."
     },
     {
@@ -36,7 +33,6 @@
       "name": "Assassin's Creed III",
       "saga": "Assassin's Creed",
       "genero": "Acción",
-      "ruta":"AssassinsCreed",
       "description":"Assassin's Creed III te lleva a la guerra de Independencia de los Estados Unidos, una época de agitación social. Un nativo americano que lucha por proteger a su tierra y su pueblo se convertirá en un Assassin que prenderá la llama de la revolución de una joven nación."
     },
     {
@@ -44,7 +40,6 @@
       "name": "Assassin's Creed Originss",
       "saga": "Assassin's Creed",
       "genero": "Acción",
-      "ruta":"AssassinsCreed",
       "description":"Assassin's Creed Origins desvela el nacimiento de la Hermandad. Lucha en batallas épicas, domina un sistema de combate reinventado y explora todo Egipto. Completa misiones en el orden que prefieras y sigue tu propio camino hacia la grandeza."
     },
     {
@@ -52,7 +47,6 @@
       "name": "Assassin's Creed Valhalla",
       "saga": "Assassin's Creed",
       "genero": "Acción",
-      "ruta":"AssassinsCreed",
       "description":"En Assassin's Creed Valhalla eres Eivor, una feroz leyenda vikinga. Explora un dinámico mundo abierto ambientado en el brutal trasfondo de la Inglaterra medieval. Saquea a tus enemigos y consolida tu poder político para ganarte tu sitio en el Valhalla."
     },
     {
@@ -68,7 +62,6 @@
       "name": "Call Of Duty WWII",
       "saga": "Call of Duty",
       "genero": "Acción",
-      "ruta": "CallofDuty",
       "description":"Call of Duty regresa a sus raíces con Call of Duty: WWII, una experiencia sobrecogedora que redefine la Segunda Guerra Mundial para una nueva generación. Aterriza en Normandía el día D y combate por toda Europa en los emblemáticos escenarios de la guerra más monumental de la historia. Disfruta del combate clásico de Call of Duty, de los lazos de camaradería y de la naturaleza implacable de la guerra. La campaña definitiva de la segunda guerra mundial. Vive la historia de una inquebrantable hermandad de hombres comunes que lucharon por la libertad en un mundo al borde de la tiranía. Multijugador con los pies en el suelo. El multijugador de Call of Duty: WWII sumerge a los jugadores en frenéticos combates terrestres en algunas de las localizaciones más emblemáticas de la Segunda Guerra Mundial. Los jugadores también disfrutarán de nuevas mane-ras de interaccionar y relacionarse con sus amigos y el resto de la comunidad de Call of Duty. Cooperativo al rojo vivo. El modo cooperativo de Call of Duty: WWII llega con una historia nueva y original. Juega con tus amigos en esta experiencia de juego independiente cargada de inesperados subidones de adrenalina."
     },
     {
@@ -76,7 +69,6 @@
       "name": "Call of Duty: Black Ops IIII. Edición Estándar",
       "saga": "Call of Duty",
       "genero": "Acción",
-      "ruta": "CallofDuty",
       "description":"Call of Duty Black Ops IIII es la nueva entrega de la popular saga de acción de Activision. Desarrollado por Treyarch, disponible desde el 12 de octubre de 2018 para PS4, Xbox One, PC."
     },
     {
@@ -84,7 +76,6 @@
       "name": "Cyberpunk 2077",
       "saga": "Cyberpunk 2077",
       "genero":"Acción",
-      "ruta":"Cyberpunk2077",
       "description":"Cyberpunk 2077 es una historia de acción y aventura en mundo abierto ambientada en Night City, una megalópolis obsesionada con el poder, el glamur y la modificación corporal. Tu personaje es V, un mercenario que persigue un implante único que permite alcanzar la inmortalidad. Podrás personalizar las mejoras cibernéticas, las habilidades y el estilo de juego del personaje para dar forma a un mundo y a una historia que depende de tus decisiones."
     },
     {
@@ -108,7 +99,6 @@
       "name": "Gears of War 2",
       "saga": "Gears of War",
       "genero":"Acción",
-      "ruta": "GearsofWar",
       "description":"¡Más salvaje que nunca! Se aproxima el invierno, y la guerra se encrudece. Se hunden ciudades enteras a causa de una amenaza desconocida. Dentro de poco a la humanidad no le quedara nada que defender. Solo una opción: Un último ataque a la Horda Locust.   Nuevo referente en juegos HD Los controles innovadores, y la intensidad de sus combates, hicieron de Gears of Wars uno de los juegos de Xbox mas vendidos de la historia. Los nuevos avances del Unreal 3 marcan de nuevo un antes y un después.   Una experiencia entrañable Utiliza a los enemigos como escudos, enfréntate a duelos con motosierras y descubre nuevos monstruos, armas y vehículos en una campaña de victorias y derrotas."
     }
   ]

@@ -32,9 +32,12 @@
        />
    </div>
 </div>
-
-{#each juegos as juego (juego.id)}
+<ul class:list={juegos.length > 0}>
+  {#if juegos.length}
+{#each juegos as juego, i (juego.id)}
 <div class="flex justify-center">
   <img src="/{juego.ruta}.png" alt="">
 </div>
 {/each}
+{/if}
+</ul>
