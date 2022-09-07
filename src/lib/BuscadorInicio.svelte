@@ -1,4 +1,5 @@
 <script>
+  import Cardjuegos from './Cardjuegos.svelte'
     import juegos from '../assets/juegos.json'
 
   import buscar from '/buscar.svg'
