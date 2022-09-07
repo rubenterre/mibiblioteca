@@ -1,0 +1,114 @@
+[
+    {
+      "id": 0,
+      "name": "Assassin's Creed",
+      "saga": "Assassin's Creed",
+      "genero": "Acción",
+      "ruta":"AssassinsCreed",
+      "description": "Experimenta el poder de un ASESINO Jerusalén, 1191 AC. La dura epoca de la tercera Cruzada. Las calles están llenas de actividad, pero en unos segundos todo puede cambiar porque tu, Altair, eres un miembro de los temidos Asesinos Planea tu ataque, ejecutando sin piedad, y escapa sin ser capturado. Experimeta la acción. Utiliza las armas de largo alcance y enfréntate a tus enemigos en realistas duelos a espada. Ábrete camino entre la multitud para alcanzar tu objetivo. Cada acción tiene sus consecuencias y puede decidir si la gente te delata o te ayuda a escapar. Explora la Tierra Prometida en la aventura de descubrir una conspiración secular."
+    },
+    {
+      "id": 1,
+      "name": "Assassin's Creed II",
+      "saga": "Assassin's Creed",
+      "genero": "Acción",
+      "ruta":"AssassinsCreed",
+      "description": "Assassin's Creed II es la secuela del juego que se convirtió en la nueva IP con las ventas más rápidas de la historia de los videojuegos. El esperado título presenta a un nuevo héroe, Ezio Auditore, un joven noble italiano, y una nueva era, el Renacimiento."
+    },
+    {
+      "id": 2,
+      "name": "Assassin's Creed La Hermandad",
+      "saga": "Assassin's Creed",
+      "genero": "Acción",
+      "ruta":"AssassinsCreed",
+      "description":"En Assassin's Creed La Hermandad, ponte en la piel de Ezio, un legendario maestro Assassin, en su lucha contra la Orden de los templarios. Para atacar al corazón del enemigo, deberá aventurarse en Roma, centro de poder, avaricia y corrupción."
+    },
+    {
+      "id": 3,
+      "name": "Assassin's Creed Revelations",
+      "saga": "Assassin's Creed",
+      "genero": "Acción",
+      "ruta":"AssassinsCreed",
+      "description":"En Assassin's Creed Revelations, el maestro Assassin Ezio Auditore sigue los pasos del legendario mentor Altaïr. Es un peligroso viaje que llevará a Ezio hasta Constantinopla, donde un ejército de templarios amenaza con desestabilizar la región."
+    },
+    {
+      "id": 4,
+      "name": "Assassin's Creed III",
+      "saga": "Assassin's Creed",
+      "genero": "Acción",
+      "ruta":"AssassinsCreed",
+      "description":"Assassin's Creed III te lleva a la guerra de Independencia de los Estados Unidos, una época de agitación social. Un nativo americano que lucha por proteger a su tierra y su pueblo se convertirá en un Assassin que prenderá la llama de la revolución de una joven nación."
+    },
+    {
+      "id": 5,
+      "name": "Assassin's Creed Originss",
+      "saga": "Assassin's Creed",
+      "genero": "Acción",
+      "ruta":"AssassinsCreed",
+      "description":"Assassin's Creed Origins desvela el nacimiento de la Hermandad. Lucha en batallas épicas, domina un sistema de combate reinventado y explora todo Egipto. Completa misiones en el orden que prefieras y sigue tu propio camino hacia la grandeza."
+    },
+    {
+      "id": 6,
+      "name": "Assassin's Creed Valhalla",
+      "saga": "Assassin's Creed",
+      "genero": "Acción",
+      "ruta":"AssassinsCreed",
+      "description":"En Assassin's Creed Valhalla eres Eivor, una feroz leyenda vikinga. Explora un dinámico mundo abierto ambientado en el brutal trasfondo de la Inglaterra medieval. Saquea a tus enemigos y consolida tu poder político para ganarte tu sitio en el Valhalla."
+    },
+    {
+      "id": 7,
+      "name": "Call of Duty 4: Modern Warfare",
+      "saga": "Call of Duty",
+      "genero": "Acción",
+      "ruta": "CallofDuty",
+      "description":"Infinity ward presenta su nueva aventura bélica Call of Duty 4 Modern Warfare, con este titulo la compañía se adelanta a la nueva generación de shooters en primera persona, combinando la tecnología más avanzada a nivel gráfico y sonoro, para dotar al jugador de una experiencia definitiva al frente de diversas misiones estratégicas como soldados de los US marine y las SAS británicos. La tensión esta asegurada en un titulo lleno de giros, donde los jugadores hacen uso de tecnología sofisticada y coordinan ataques por tierra y aire sobre un campo de batalla donde la velocidad, la precisión y la comunicación son esenciales para alzarse con la victoria. Este titulo épico también incluye la intensidad de la acción multijugador."
+    },
+    {
+      "id": 8,
+      "name": "Call Of Duty WWII",
+      "saga": "Call of Duty",
+      "genero": "Acción",
+      "ruta": "CallofDuty",
+      "description":"Call of Duty regresa a sus raíces con Call of Duty: WWII, una experiencia sobrecogedora que redefine la Segunda Guerra Mundial para una nueva generación. Aterriza en Normandía el día D y combate por toda Europa en los emblemáticos escenarios de la guerra más monumental de la historia. Disfruta del combate clásico de Call of Duty, de los lazos de camaradería y de la naturaleza implacable de la guerra. La campaña definitiva de la segunda guerra mundial. Vive la historia de una inquebrantable hermandad de hombres comunes que lucharon por la libertad en un mundo al borde de la tiranía. Multijugador con los pies en el suelo. El multijugador de Call of Duty: WWII sumerge a los jugadores en frenéticos combates terrestres en algunas de las localizaciones más emblemáticas de la Segunda Guerra Mundial. Los jugadores también disfrutarán de nuevas mane-ras de interaccionar y relacionarse con sus amigos y el resto de la comunidad de Call of Duty. Cooperativo al rojo vivo. El modo cooperativo de Call of Duty: WWII llega con una historia nueva y original. Juega con tus amigos en esta experiencia de juego independiente cargada de inesperados subidones de adrenalina."
+    },
+    {
+      "id": 9,
+      "name": "Call of Duty: Black Ops IIII. Edición Estándar",
+      "saga": "Call of Duty",
+      "genero": "Acción",
+      "ruta": "CallofDuty",
+      "description":"Call of Duty Black Ops IIII es la nueva entrega de la popular saga de acción de Activision. Desarrollado por Treyarch, disponible desde el 12 de octubre de 2018 para PS4, Xbox One, PC."
+    },
+    {
+      "id": 10,
+      "name": "Cyberpunk 2077",
+      "saga": "Cyberpunk 2077",
+      "genero":"Acción",
+      "ruta":"Cyberpunk2077",
+      "description":"Cyberpunk 2077 es una historia de acción y aventura en mundo abierto ambientada en Night City, una megalópolis obsesionada con el poder, el glamur y la modificación corporal. Tu personaje es V, un mercenario que persigue un implante único que permite alcanzar la inmortalidad. Podrás personalizar las mejoras cibernéticas, las habilidades y el estilo de juego del personaje para dar forma a un mundo y a una historia que depende de tus decisiones."
+    },
+    {
+      "id": 11,
+      "name": "Forza Horizon 4. Edición Estándar",
+      "saga": "Forza Horizon 4",
+      "genero":"Simulador de conducción",
+      "ruta": "ForzaHorizon",
+      "description":"Forza Horizon 4 es un videojuego de carreras de mundo abierto, jugable en línea, desarrollado por Playground Games para Xbox One y Windows 10. Fue revelado en el E3 2018 y su lanzamiento se produjo el 2 de octubre de 2018"
+    },
+    {
+      "id": 12,
+      "name": "Gears of War",
+      "saga": "Gears of War",
+      "genero":"Acción",
+      "ruta": "GearsofWar",
+      "description":"Una pesadilla desde las profundidades. Un héroe desde dentro. El planeta está en ruinas: las ciudades se desmoronan y las mayores obras de hombre de vienen abajo. La humanidad está arrinconada, no tienen donde ir. La horda de Locust se ha alzado y no dejarán de llegar. No dejaran de matar. La coalición busca soldados desesperadamente. Pero solo quedan enfermos, heridos y prisioneros. Un interno llamado Marcus Fénix, al que un día dejaron morir se encarga ahora de mantener viva a la humanidad. Solo hay algo que le consuela: la raza humana no se ha extinguido. Aún con el intuitivo sistema de protección en tan solo un botón para disparar sin ver a tu enemigo, evadir, flanquear y destruir a las Hordas de Locust. Ponte en la piel de Marcus Fénix y dirige a tu propia banda o bien recluta a un amigo para que se convierta en tu compañero de banda Dominic Santiago."
+    },
+    {
+      "id": 13,
+      "name": "Gears of War 2",
+      "saga": "Gears of War",
+      "genero":"Acción",
+      "ruta": "GearsofWar",
+      "description":"¡Más salvaje que nunca! Se aproxima el invierno, y la guerra se encrudece. Se hunden ciudades enteras a causa de una amenaza desconocida. Dentro de poco a la humanidad no le quedara nada que defender. Solo una opción: Un último ataque a la Horda Locust.   Nuevo referente en juegos HD Los controles innovadores, y la intensidad de sus combates, hicieron de Gears of Wars uno de los juegos de Xbox mas vendidos de la historia. Los nuevos avances del Unreal 3 marcan de nuevo un antes y un después.   Una experiencia entrañable Utiliza a los enemigos como escudos, enfréntate a duelos con motosierras y descubre nuevos monstruos, armas y vehículos en una campaña de victorias y derrotas."
+    }
+  ]

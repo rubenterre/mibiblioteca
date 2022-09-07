@@ -1,0 +1,56 @@
+[
+    {
+      "id": 0,
+      "saga": "Assassin's Creed",
+      "genero": "Acción",
+      "ruta":"AssassinsCreed"
+    },
+    {
+      "id": 1,
+      "saga": "Call of Duty",
+      "genero": "Acción",
+      "ruta": "CallofDuty"
+    },
+    {
+      "id": 2,
+      "saga": "Gears of War",
+      "genero":"Acción",
+      "ruta": "GearsofWar"
+    },
+    {
+      "id": 3,
+      "saga": "Battlefront",
+      "genero":"Acción",
+      "ruta":"Battlefront"
+    },
+    {
+      "id": 4,
+      "saga": "Cyberpunk 2077",
+      "genero":"Acción",
+      "ruta":"Cyberpunk2077"
+    },
+    {
+      "id": 5,
+      "saga": "Forza Horizon 4",
+      "genero":"Simulador de conducción",
+      "ruta": "ForzaHorizon"
+    },
+    {
+      "id": 6,
+      "saga": "GTA 5",
+      "genero":"Acción",
+      "ruta":"GTA5"
+    },
+    {
+      "id": 7,
+      "saga": "Rainbow Six Siege",
+      "genero":"Acción",
+      "ruta":"RAINBOWSIX"
+    },
+    {
+      "id": 8,
+      "saga": "Ark Survival",
+      "genero":"Acción",
+      "ruta":"ARK"
+    }
+  ]
